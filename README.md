@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nallemanden
 - 👀 I’m interested in Magnets, how do they work?
-- 🌱 I’m currently learning how magnets works
+- 🌱 I’m currently learning how magnets work
 - 💞️ I’m looking to collaborate on magnets
 - 📫 
 
